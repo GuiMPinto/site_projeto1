@@ -261,12 +261,13 @@ footer
 {
     max-width: 1360px;
     width: 100%;
+    margin: 80px auto 50px auto;
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    text-align: center;
-    
+    /* text-align: center;*/
 }
+    
+
 
 .rodape h4
 {
